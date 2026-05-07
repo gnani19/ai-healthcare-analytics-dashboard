@@ -11,7 +11,7 @@ st.write(
     "operational KPIs, and high-value claim anomalies."
 )
 
-DATA_PATH = Path("data/healthcare_claims_sample.csv")
+DATA_PATH = Path("healthcare_claims_sample.csv")
 
 @st.cache_data
 def load_data():
