@@ -1,0 +1,6 @@
+PROJECT
+
+AI-Powered Healthcare Analytics Dashboard
+• Developed a cloud-ready healthcare analytics dashboard using Python, Streamlit, Pandas, Plotly, and healthcare claims data to analyze denials, prior authorizations, provider performance, operational KPIs, and high-value claim anomalies.
+• Built automated KPI calculations, denial trend analysis, provider-level reporting, and AI-generated executive summaries to improve healthcare reporting visibility and reduce manual analysis effort.
+• Created interactive dashboard filters and visual reports for department-level trends, payer performance, denial reasons, authorization delays, and claim anomaly monitoring.
